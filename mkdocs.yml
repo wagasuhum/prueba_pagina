@@ -1,7 +1,10 @@
-site_name: Indice STAR
+site_name: Índice STAR
+site_url: https://wagasuhum.github.io/prueba_pagina/
 
 theme:
   name: material
+  logo: null
+  favicon: null
 
 nav:
   - Inicio: index.md
