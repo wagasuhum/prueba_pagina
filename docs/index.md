@@ -33,23 +33,26 @@ El propósito principal de la métrica STAR (Species Threat Abatement and Restor
 
 $$
 STAR(T) =
-\left(
-\sum_{s} N_s P_s
-\right)
-\cdot
-\left(
-\sum_{i} W_i C_i
-\right)
+\sum_{s}
+\sum_{i}
+N_s
+P_{s,i}
+W_s
+C_{s,t}
 $$
+
+Donde:
 
 Donde:
 
 $$
 \begin{aligned}
-N_s &= \text{Número de elementos del tipo } s \\
-P_s &= \text{Peso o importancia del elemento } s \\
-W_i &= \text{Peso del impacto } i \\
-C_i &= \text{Magnitud o contribución del impacto } i
+N_s &= \text{Número de especies } s \text{ presentes en la unidad espacial} \\
+P_{s,i} &= \text{Proporción del área de hábitat (AOH) de la especie } s \\
+        &\quad \text{presente en la ubicación } i \\
+W_s &= \text{Peso asociado al nivel de amenaza de la especie } s \\
+C_{s,t} &= \text{Contribución de la amenaza } t \\
+        &\quad \text{al riesgo de extinción de la especie } s
 \end{aligned}
 $$
 
