@@ -4,7 +4,7 @@ Bienvenido a la documentación oficial
 
 ---
 
-## 📌 Qué hace
+## ☘️ Qué hace
 
 Este proyecto permite:
 
