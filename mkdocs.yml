@@ -1,7 +1,13 @@
-site_name: Prueba Pagina
+site_name: prueba_pagina
 
 theme:
   name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - content.code.copy
 
 nav:
   - Inicio: index.md
