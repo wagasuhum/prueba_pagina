@@ -3,6 +3,8 @@ site_name: Índice STAR
 theme:
   name: material
   logo: assets/logo.png
+  features:
+    - navigation.tabs
 
 nav:
   - Inicio: index.md
