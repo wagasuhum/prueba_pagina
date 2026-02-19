@@ -1,6 +1,6 @@
 # 🌎 Proyecto de Hábitat
 
-Bienvenido a la documentación oficial.
+Bienvenido a la documentación oficial
 
 ---
 
