@@ -1,2 +1,2 @@
-Calculo del indice STAR
+#  Calculo Indice STAR
 ## Area de Habitat
