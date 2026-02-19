@@ -3,8 +3,8 @@ site_url: https://wagasuhum.github.io/prueba_pagina/
 
 theme:
   name: material
-  logo: null
-  favicon: null
+  logo: assets/logo.png
+  favicon: assets/logo.png
 
 nav:
   - Inicio: index.md
