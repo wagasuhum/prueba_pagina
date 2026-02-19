@@ -1,22 +1,37 @@
-# 🌎 Proyecto de Hábitat.
+#  Propósito del STAR 
 
-Bienvenido a la documentación oficial
+El propósito principal de la métrica STAR (Species Threat Abatement and Restoration) es cuantificar la contribución potencial de las acciones orientadas a mitigar amenazas y restaurar hábitats en la reducción del riesgo de extinción de especies a nivel global (cita). Esta métrica fue desarrollada para hacer explícitas espacialmente las acciones necesarias para detener y revertir la pérdida de especies (cita).
 
 ---
 
 ## ☘️ Qué hace
 
-Este proyecto permite:
+- Cuantificación de la contribución a la reducción del riesgo de extinción
+- Identificación espacialmente explícita
+- Apoyo a metas basadas en la ciencia
+- Apoyo a la implementación del Marco Global de Biodiversidad
+- Involucramiento de diversos actores
+- Complemento a herramientas existentes
+- Escalabilidad y versatilidad
+- Adaptabilidad a diferentes tipos de datos
+- Apoyo a la planificación de la conservación (pero no como herramienta única de priorización)
+- Seguimiento del progreso
 
-- Analizar distribución de especies
-- Generar mapas
-- Automatizar datos ecológicos
+## 🌳Insumos
+
+- Lista Roja de Especies Amenazadas de la UICN
+- Base de Datos Mundial de Áreas Clave para la Biodiversidad (WDKBA)
+- Datos de Cobertura del Suelo
+- Mapas de Cambio en la Cobertura Forestal
+- Modelos Digitales de Elevación (DEM)
+- Listas Rojas Nacionales
+
 
 ---
 
 ## 🚀 Instalación
 
-## Gráfica de resultados
+## Especies que se encuentran amenazadas segun IUCN
 
 <p align="center">
   <img src="assets/img/grafica1.png" width="600">
