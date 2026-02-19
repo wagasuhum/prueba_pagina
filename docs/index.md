@@ -1,4 +1,4 @@
-# 🌎 Proyecto de Hábitat
+# 🌎 Proyecto de Hábitat.
 
 Bienvenido a la documentación oficial
 
